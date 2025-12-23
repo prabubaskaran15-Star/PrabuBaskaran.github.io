@@ -1,9 +1,0 @@
-
-{
-  "name": "Prabu Baskaran Portfolio",
-  "description": "Professional portfolio of Prabu Baskaran, RPA & HyperAutomation Program Manager with 12+ years of experience.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
